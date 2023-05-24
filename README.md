@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moh1434" alt="moh1434" /></a> </p>
 
-- 🔭 I’m currently working on [Sjaj library](https://sjaj.iraqify.com/)
+- 🔭 I’m currently working in CTW
 
 - 🌱 I’m currently learning **More about clean code.**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 My LinkedIn [www.linkedin.com/in/moh1434](www.linkedin.com/in/moh1434)
 
-- 💬 Ask me about **CSS, Vue2, Vue3**
+- 💬 Ask me about **Express, Vue3**
 
 - 📫 How to reach me **moh1434.ma@gmail.com**
 
